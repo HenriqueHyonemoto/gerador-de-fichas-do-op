@@ -1,7 +1,7 @@
 # Demonstração do Uso
 <div align="center">
     
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pHZT-Sa_vZo/0.jpg)](https://www.youtube.com/watch?v=pHZT-Sa_vZo)
+[![Watch the video](https://github.com/user-attachments/assets/ce856177-d705-4205-86d5-7c532f39ef9c)](https://youtu.be/pHZT-Sa_vZo)
 
 </div>
 

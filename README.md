@@ -6,17 +6,15 @@
 </div>
 
 # Uso
-Execute em um terminal o comando
+Execute em um 1º terminal:
 ```
-
 npm run dev
 ```
-Em outro terminal execute 
+Execute em um 2º terminal:
 ```
 php artisan serve
 ```
-
-
+Execute o Apache e o MySQL no XAMPP
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
